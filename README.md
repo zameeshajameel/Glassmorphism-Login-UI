@@ -19,7 +19,7 @@
 
 <!-- Add your app screenshots or a demo GIF below. Recommended size: 300x650px per screenshot -->
 <p align="center">
- <img width="400" height="800" alt="Glassmorphism Login UI" src="https://github.com/user-attachments/assets/fa91977d-c61b-409b-831d-b92c183ec56b" />
+ <img width="400" height="800" alt="Glassmorphism Login UI" src="Login UI.jpg" />
 </p>
 
 <!-- Tip: You can also embed a short screen-recording GIF here for extra impact -->
